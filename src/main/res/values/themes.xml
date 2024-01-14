@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Gfg_hack" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/blue</item>
+    </style>
+
+    <style name="Theme.Gfg_hack" parent="Base.Theme.Gfg_hack" />
+
+    <style name="ProgressBar">
+        <item name="colorSecondary">@color/verdigris</item>
+    </style>
+
+    <style name="ProgressBar." parent="Base.Theme.Gfg_hack" />
+</resources>
